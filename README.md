@@ -46,7 +46,12 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues">请求新功能</a>
   </p>
 </div>
-
+<p align="center">
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue" alt="license MIT"></a>
+<a href="https://github.com/assimon/dujiaoka/releases/tag/2.0.4"><img src="https://img.shields.io/badge/version-2.0.4-red" alt="version 2.0.4"></a>
+<a href="https://www.php.net/releases/7_4_0.php"><img src="https://img.shields.io/badge/PHP-7.4-lightgrey" alt="php74"></a>
+<a href="https://t.me/miya0v0"><img src="https://img.shields.io/badge/TG-miya0v0-green" alt="tg:@miya0v0"></a>
+</p>
 
 
 <!-- 目录 -->
